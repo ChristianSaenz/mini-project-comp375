@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243643990825",
+    "project_id": "endlesstoys-b6f85",
+    "storage_bucket": "endlesstoys-b6f85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643990825:android:47a3760a846b0feca62d38",
+        "android_client_info": {
+          "package_name": "com.example.timeless_toys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGS2flMwQ43sFCfLiXwo18St-AS-rfHnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
